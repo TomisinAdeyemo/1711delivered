@@ -6,6 +6,6 @@ document.addEventListener("DOMContentLoaded", function() {
         setTimeout(function() {
             loader.style.display = 'none';
             content.classList.remove('hidden');
-        }, 2000); 
+        }, 5000); 
     };
 });
